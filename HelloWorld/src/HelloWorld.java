@@ -6,7 +6,7 @@ public class HelloWorld {
 	}
 	
 	public void givePreamble(){
-		System.out.println("Hear ye hear ye: important announcement.");
+		System.out.println("Hear ye HEAR ye: important announcement.");
 	}
 	
 	public static void main(String[] args) {
