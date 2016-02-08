@@ -2,7 +2,7 @@
 public class HelloWorld {
 	
 	public void greetUser(){
-		System.out.println("Hello World.  I am waiting.");
+		System.out.println("Hello World.  I am waiting...  Goodbye.");
 	}
 	
 	public void givePreamble(){
