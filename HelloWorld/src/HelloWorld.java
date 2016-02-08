@@ -26,6 +26,7 @@ public class HelloWorld {
 		greetings.givePreamble();
 		greetings.giveDate();
 		greetings.greetUser();	
+		greetings.giveMemory();
 
 	}
 
